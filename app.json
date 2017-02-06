@@ -1,0 +1,24 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/recommand/recommand",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/myMusic/myMusic",
+    "pages/user/user"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ee1111",
+    "navigationBarTitleText": "Music",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pagePath",
+      "text": "text",
+      "iconPath": "iconPath",
+      "selectedIconPath": "selectedIconPath"
+    }]
+  }
+}
